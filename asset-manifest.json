@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kudosware/static/css/main.5d59995d.chunk.css",
+    "main.js": "/kudosware/static/js/main.ab53b069.chunk.js",
+    "main.js.map": "/kudosware/static/js/main.ab53b069.chunk.js.map",
+    "runtime-main.js": "/kudosware/static/js/runtime-main.e6361408.js",
+    "runtime-main.js.map": "/kudosware/static/js/runtime-main.e6361408.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/kudosware/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.630fc525.chunk.js": "/kudosware/static/js/2.630fc525.chunk.js",
+    "static/js/2.630fc525.chunk.js.map": "/kudosware/static/js/2.630fc525.chunk.js.map",
+    "index.html": "/kudosware/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/kudosware/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.5d59995d.chunk.css.map": "/kudosware/static/css/main.5d59995d.chunk.css.map",
+    "static/js/2.630fc525.chunk.js.LICENSE.txt": "/kudosware/static/js/2.630fc525.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6361408.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.630fc525.chunk.js",
+    "static/css/main.5d59995d.chunk.css",
+    "static/js/main.ab53b069.chunk.js"
+  ]
+}
